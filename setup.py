@@ -56,7 +56,6 @@ requires = [
     'matplotlib',
     'pandas',
     'pytest-cov',
-    'PyYAML',
     'python-coveralls']
 
 tests_requires = [

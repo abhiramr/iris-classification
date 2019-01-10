@@ -8,7 +8,7 @@ import sys
 from texttable import Texttable
 import click
 
-from . import spec 
+from . import classify 
 
 @click.group()
 def main():
